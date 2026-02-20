@@ -3,6 +3,7 @@ Modern Python GUI framework that enable you to build virtually any type of appli
 
 
 ## Framework Architecture
+```
 ┌──────────────────────────────────────────────────┐
 │               APPLICATION LAYER                  │
 │         (User's Python code lives here)          │
@@ -26,3 +27,4 @@ Modern Python GUI framework that enable you to build virtually any type of appli
 ├────────────────┴─────────────────────────────────┤
 │              OS / GPU / HARDWARE                 │
 └──────────────────────────────────────────────────┘
+```
